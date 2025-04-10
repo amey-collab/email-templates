@@ -1,0 +1,6 @@
+{
+  "internship": "Subject: Internship Request\n\nDear [Recipient],\n\nI am writing to express my interest in an internship opportunity. I am currently pursuing [Your Course] and am eager to contribute and learn in your organization.\n\nRegards,\n[Your Name]",
+  "leave": "Subject: Leave Application\n\nDear [Recipient],\n\nI would like to request leave from [start date] to [end date] due to [reason]. Kindly approve my request.\n\nSincerely,\n[Your Name]",
+  "resignation": "Subject: Resignation Letter\n\nDear [Manager],\n\nI hereby submit my resignation from the position of [Your Position], effective from [Date]. Thank you for the opportunity.\n\nBest regards,\n[Your Name]",
+  "job application": "Subject: Job Application\n\nDear [Hiring Manager],\n\nI am writing to apply for the [Position] role at your company. With my skills in [skills], I believe I can be an asset to your team.\n\nSincerely,\n[Your Name]"
+}
